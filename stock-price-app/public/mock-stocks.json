@@ -1,0 +1,22 @@
+[
+    { "symbol": "AAPL", "name": "Apple", "price": 174.55, "details": "Leading tech company." },
+    { "symbol": "GOOGL", "name": "Google", "price": 2925.55, "details": "Search engine giant." },
+    { "symbol": "MSFT", "name": "Microsoft", "price": 312.45, "details": "Software and cloud services." },
+    { "symbol": "AMZN", "name": "Amazon", "price": 3512.45, "details": "E-commerce leader." },
+    { "symbol": "TSLA", "name": "Tesla", "price": 645.34, "details": "Electric vehicle manufacturer." },
+    { "symbol": "META", "name": "Meta", "price": 260.12, "details": "Social media and tech." },
+    { "symbol": "NFLX", "name": "Netflix", "price": 512.25, "details": "Streaming services." },
+    { "symbol": "ADBE", "name": "Adobe", "price": 644.45, "details": "Creative software leader." },
+    { "symbol": "ORCL", "name": "Oracle", "price": 84.15, "details": "Database software company." },
+    { "symbol": "INTC", "name": "Intel", "price": 32.55, "details": "Semiconductor manufacturer." },
+    { "symbol": "NVDA", "name": "NVIDIA", "price": 432.45, "details": "Graphics and AI processors." },
+    { "symbol": "IBM", "name": "IBM", "price": 120.55, "details": "Enterprise technology provider." },
+    { "symbol": "DIS", "name": "Disney", "price": 94.55, "details": "Entertainment giant." },
+    { "symbol": "V", "name": "Visa", "price": 212.25, "details": "Global payment solutions." },
+    { "symbol": "MA", "name": "Mastercard", "price": 375.45, "details": "Payment processing leader." },
+    { "symbol": "PYPL", "name": "PayPal", "price": 85.15, "details": "Digital payments." },
+    { "symbol": "PEP", "name": "PepsiCo", "price": 180.25, "details": "Food and beverage giant." },
+    { "symbol": "KO", "name": "Coca-Cola", "price": 64.25, "details": "Beverage leader." },
+    { "symbol": "PG", "name": "Procter & Gamble", "price": 145.45, "details": "Consumer goods company." },
+    { "symbol": "JPM", "name": "JP Morgan", "price": 140.55, "details": "Banking and financial services." }
+  ]
